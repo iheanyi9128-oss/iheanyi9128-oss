@@ -1,4 +1,4 @@
-# iheanyi9128.oss
+# iheanyi9128-oss
 ### Hi 👋, I'm Iheanyi
 
 **Math Enthusiast• Aspiring Data Analyst • Python Learner**
