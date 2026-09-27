@@ -19,9 +19,9 @@ Through the years I built my existence on an impeccable foundation in math; with
 `Python` `Pandas` `NumPy` `Excel` `Git` `GitHub`
 
 ### 📊 GitHub Stats
-![Iheanyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=iheanyi9128&show_icons=true&theme=tokyonight)
+![Iheanyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=iheanyi9128-oss&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iheanyi9128&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iheanyi9128-oss&layout=compact&theme=tokyonight)
 
 
 Let's connect and build!
